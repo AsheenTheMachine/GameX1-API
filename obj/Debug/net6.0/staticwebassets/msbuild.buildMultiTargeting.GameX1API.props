@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GameX1API.props" />
+</Project>
